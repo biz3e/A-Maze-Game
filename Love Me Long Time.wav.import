@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Love Me Long Time.wav-b5d3bf2ce5b0ce8a28f0a670191cd67d.sample"
+
+[deps]
+
+source_file="res://Love Me Long Time.wav"
+dest_files=[ "res://.import/Love Me Long Time.wav-b5d3bf2ce5b0ce8a28f0a670191cd67d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
